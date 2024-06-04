@@ -5,6 +5,7 @@ out/
 .idea/
 !**/src/main/**/out/
 !**/src/test/**/out/
+*.iml
 
 # Log file
 *.log
